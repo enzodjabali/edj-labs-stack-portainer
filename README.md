@@ -1,5 +1,5 @@
 # Stack Portainer
-> This stack uses Traefik.
+<i>Note: This stack uses Traefik.</i>
 
 1. Change the values of `traefik.http.routers.portainer.rule` and `traefik.http.routers.portainer-http.rule` in docker-compose.yml
 
